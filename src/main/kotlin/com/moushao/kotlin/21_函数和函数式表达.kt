@@ -15,3 +15,4 @@ fun main(args: Array<String>) {
  * 赋值到函数申明体
  */
 fun add(a: Int, b: Int):Int = a+b
+
